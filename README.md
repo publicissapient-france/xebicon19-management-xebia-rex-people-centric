@@ -1,7 +1,7 @@
 # XebiCon 2019
-## Management at Scale
+## Management @ Xebia: REX People Centric
 
-Checkout [presentation](management-at-scale.md) with [Deckset](https://www.deckset.com/)
+Checkout [presentation](management-xebia-rex-people-centric.md) with [Deckset](https://www.deckset.com/)
 
 WIP
 
