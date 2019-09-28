@@ -2,7 +2,7 @@ theme: XebiCon19
 slidenumbers: true
 
 ![original](xebicon19-background.png)
-# Atomic Design Driven Development
+# Management - Rex People Centric
 
 ---
 
@@ -34,81 +34,34 @@ Développeur
 
 # Plan
 
-- Atomic Design : la théorie
-- Atomic Design + TDD
-- Atomiser une app legacy
+- WHY : Pourquoi est-ce un enjeu ?
+- HOW : Comment l'implémenter en entreprise (l'exemple Xebia)
+- WHAT : Nos pratiques
 
 ---
 
-# Atomic Design
+# WHY : Pourquoi est-ce un enjeu ?
 
-## Une vision atomique du design
+## Les gens d'abord
+
+- les arrivées et les départs
+- 
 
 ---
 
 [.header: #595959, alignment(left), line-height(1), Oswald]
 
-# Constat
+# HOW
 
-Le design par page n'a plus sa place. 
-
-Ces dernières sont conçues via des éléments d'interface qui vont devoir s'intégrer 
-dans des environnements variées.
-
-Atomic Design propose une approche par composants, expliqué en détails par Brad Frost.
+Blah
 
 ---
 
-> Arrêter de penser en "écrans" mais en un système de composants qui s'adaptent
-> aux différents supports.
+Blah
 
 ---
 
-# Atome
-
----
-
-# Molécule
-
----
-
-# Organisme
-
----
-
-# Template
-
----
-
-# Page
-
----
-
-# Tooling
-
----
-
-# Abstract
-
----
-
-# InVision
-
----
-
-# Storybook
-
----
-
-# Découper pour mieux tester
-
----
-
-# Atomiser une app legacy
-
----
-
-# Baby steps
+# WHAT
 
 ---
 
@@ -130,4 +83,3 @@ Pour en être informé, restez connecté à **@Xebiconfr**
 *Merci à nos sponsors*
 
 ![inline](confluent-logo.png) ![inline](datastax-logo.png) ![inline](scaleway-logo.png)
-
