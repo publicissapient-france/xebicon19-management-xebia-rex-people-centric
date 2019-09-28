@@ -20,8 +20,8 @@ Sachez que si vous souhaitez en savoir plus, notre Tech Trends au sujet du Manag
 Aujourd'hui nous avons choisi d'aborder le sujet du management en suivant 3 parties 
 
 1) Pourquoi le Management est un sujet à part entière dans une entreprise et pourquoi nous qu'il devient impératif de s'y pencher sérieusement
-2) Comment nous avons choisi, chez Xebia, de bouleverser notre façon de faire il y a maintenant plus de 3 ans
-3) Les outils que nous avons appliqués, façonnés et enseignés au cours de ces dernières années
+2) Comment nous avons choisi, chez Xebia, de bouleverser notre façon de faire à plusieurs moments clés de notre existence
+3) Les outils que nous avons appliqués, façonnés et enseignés au cours de ces dernières années, nous vous les donnons
 
 ## Partie 1 : POURQUOI
 
@@ -35,28 +35,88 @@ Il semble alors assez facile d'exister au sein de l'entreprise, nous sommes, ind
 - être écouté : Mes problèmes
 - connaitre le sens de son action : Je sais pourquoi je me lève le matin
 
-## Partie 2 : COMMENT
+## Partie 2 : COMMENT [Attention à l'historique de Xebia, trop long = trop chiant]
 
-### L'entreprise commence à grandir
-Tout se passe bien jusqu'au moment où l'entreprise grandit et que le manageur historique, celui qui s'occupait de tous ne peut plus assurer un suivi de qualité. Il est alors temps de déléguer.
+### Epoque I - 2004
+Problème : Tout se passe bien jusqu'au moment où l'entreprise grandit et que le manageur historique, celui qui s'occupait de tous ne peut plus assurer un suivi de qualité. Il est alors temps de déléguer.
 
-### Epoque II
+Solution => Epoque II
+
+### Epoque II - pré-2011
 La première réponse de Xebia a été de nommer des manageurs, mais pas n'importe lesquels. Les manageurs chez Xebia sont des consultants avec une **rôle** de Manageur, c'est-à-dire que leur métier est avant d'être consultant, d'être par exemple Développeur sur le projet d'un de nos clients et qu'il a **en plus** une responsabilité d'encadrement de collaborateurs qui, je le rappelle, ne sont pas forcément à ses côtés.
 
 La deuxième chose, c'est que ces manageurs auront la responsable d'au maximum 12 collaborateurs, 12 consultants, répartis aux 4 coins de Paris.
 
 Le dernier point, est un conseil, "managez avec vos trippes". Je crois que c'est à peu près la seule formation que nos nouveaux manageurs auront reçu. Allez, sautez dans le grand bain et nagez.
 
-### Epoque III
+A votre avis, que s'est-il passé ?
 
-### Epoque IV
+Problème :
+- pas de formation
+- pas de méthode
+- pas de vocabulaire commun
+- pas d'harmonisation des façons de faire
+- pas de rythme, chacun fait comme il veut / comme il le sent
+- pas de temps pour bien faire, 12 managés, on le rappelle, avec une mission à temps plein
+
+Solution => Epoque III
+
+### Epoque III - mi-2015
+
+En 2015, nous choisissons de professionnaliser notre management, nous faisons appel au cabinet Madinier pour avoir un avis extérieur, des conseils et surtout, une formation au management, c'est-à-dire aux outils qui nous permettront d'être de bons manageurs.
+
+Ce qui est mis en place :
+- Nous passons d'un groupe de 12 à 7 managés
+- Nous nous imposons un rythme de suivi en one to one toutes les 6 semaines : nous appelons cela le point feedback
+- Nous instaurons un rythme mensuel pour le Management Meeting, avec un ODJ préparé à l'avance 
+
+Problème : 
+- Nomination de nouveaux manageurs impliquent la création de Manageurs de Manageurs
+- Problèmes lors des réévaluations de salaires
+- Une strate supplémentaire dans une hiérarchie qu'on souhaite la plus plate possible
+
+Solution => Epoque IV
+
+### Epoque IV - 2018
+
+Ce qui est mis en place :
+- Le management devient un des pilliers officiels de Xebian avec un investissement à temps complet d'un Manageur de manageurs, chargé d'accompagner l'ensemble des consultants manageurs
+
+Avantages :
+- Une cohérence sur l'accompagnement des manageurs
+- Une possibilité de donner de l'information à tous, en one to one
+- Une expérience de Manageur Senior apportée à tous
+- Un accompagnateur dans les moments difficiles
+
+Problème qu'on voit venir ... :
+- Ca ne scale pas, retour à l'époque I :'-(
+
+### Conclusion de la partie 2
+La structure du management doit se réinventer, sans cesse, à chaque pallier. Pour nous, c'est principalement le nombre de consultants qui rejoignent nos rangs qui nous poussent à nous remettre en question. Mais c'est aussi les raisons des départs, qui sont souvent difficiles à identifier. Ne dit-on pas qu'on quitte une entreprise avant tout à cause de son manageur plutôt qu'à cause du salaire ?
+
+`According to many sources, a bad boss is also the number one reason why employees quit their job. Here's how to get along with your boss.` [source](https://www.thebalancecareers.com/top-reasons-why-employees-quit-their-job-1918985) : 
+
+Alors ce "boss", ce manageur dans notre cas, il doit faire quoi exactement pour retenir ses collaborateurs ?
 
 ## Partie 3 : QUOI
+
+### Les moyens
+- une communauté
+- une formation
+- un accompagnement
 
 ### La responsabilisation à l'extrême
 
 ### Le Point Feedback
 
+### La culture du feedback
+
 ### Le Perfect Match
 
 ### La communauté de manageur
+
+### La Manager Academy
+
+## Conclusion
+
+### Take Away
