@@ -212,8 +212,31 @@ Vous venez d'assister à un exemple de Perfect Match, chaque cas est différent.
 Mais nous nous servons du Perfect Match également comme une synthèse générale, en faisant la moyenne de toutes les notes, critère par critère, mission par mission. Et tout ça, à chaque trimestre. Nous pouvons ainsi sentir le poul de la société, apporter des améliorations et savoir comment les Xebians se sentent.  Pour obtenir cela, les manageurs reportent les notes et les commentaires dans un grand tableau.
 
 ### La communauté de manageur
-### La responsabilisation à l'extrême
-### La Manager Academy
+
+Pour développer ce type d'outil, nous nous appuyons sur une communauté de manageurs. Cette communauté se voit tous les mois, une demi-journée, construite autour d'un ordre du jour. Les ODJ changent chaque mois, ils évoluent en fonction des sujets à traiter. Regardons ensemble quelques exemples.
+
+#### La descente d’informations
+En tant que manageur il est important d’avoir une vision plus large de l’entreprise, d’en comprendre les rouages souvent invisibles (mais pas cachés). Ainsi, nous pouvons proposer des séances d’informations sur l’activité du Commerce (un état des lieux de nos missions, des nouveaux clients, de l’état de la facturation), les axes Marketing (les événements à venir et comment les manageurs peuvent servir de relais), comprendre le modèle économique de la société …
+
+#### Les ateliers pratiques
+Pour être bon, pour être prêt, pour combattre la peur, il faut pratiquer, pratiquer, pratiquer. Le rôle du manageur implique d’être confronté à des situations plus ou moins agréables. La façon dont un manageur réagit aura une incidence majeure sur la suite de sa relation avec son managé, avec une équipe, avec des clients. Se préparer au pire, apprendre à choisir ses mots, le ton, choisir le bon moment, ne sont pas des compétences innées.
+Le Management Meeting est un moment propice à la mise en situation. Au fil des années nous avons pu lister bon nombre de situations (un collaborateur qui sort du cadre, un conflit entre des collaborateurs et un de nos clients, annoncer une réévaluation de salaire qui pourrait être perçue comme décevante). S'entraîner dans un cadre bienveillant permet de mettre un maximum de chance de son côté, d’apprendre de ses erreurs et éviter le pire.
+
+#### Le Brainstorming
+Nous croyons en l’intelligence collective. Quand on devient manageur et qu’on comprend qu’une nouvelle responsabilité nous incombe, on est tenté de résoudre tous les problèmes qu’on rencontre, mais les solutions ne sont jamais évidentes une fois passé de “l’autre côté”. En faisant partie d’une communauté, on sait qu’on peut bénéficier du cerveau des autres, confronter nos idées aux réticences ou à l’expérience d’autrui. Les sujets à aborder ensemble concernent à la fois les process internes, les initiatives pour améliorer le confort, l’équilibre de vie, la façon de récompenser les collaborateurs, la communication interne ou externe. Le Management Meeting est alors l’endroit idéal pour apporter un sujet, en discuter, s’accorder sur une solution et la tester. Les mois qui passent permettront d’en tirer des leçons, et même si c’est un échec, nous aurons avancé.
+
+#### De nouvelles idées
+Être plus nombreux, c’est aussi avoir plus d’idées. Bien sûr, on n’échappera pas à des idées proposées par de nouveaux manageurs qui auront déjà été débattues voire testées et abandonnées. Pour autant, il est toujours important de les reconsidérer, soit pour expliquer pourquoi elles n’ont pas abouties, soit pour peut-être retenter l’initiative, avec un manageur débordant d’énergie. Il se peut que la forme n’était pas bonne et que cette fois-ci ça marchera.
+Il n’est pas acceptable de balayer d’un revers de main les idées sans donner d’explications.
+
+#### L’entraide
+Il arrive parfois qu’en tant que manageur nous soyons dans une situation de blocage face à un managé. Sans forcément parler de conflit, il arrive qu’on soit à court d’idée pour faire grandir l’autre ou comprendre ce qui bloque la relation. Dans ce cas, un manageur peut librement exprimer son désarroi au Management Meeting, sans avoir peur d’être jugé. C’est ce qui est arrivé, et c’est tout naturellement qu’un autre manageur s’est porté volontaire pour assister à un des points feedbacks entre le manageur demandeur et son managé : une opportunité pour tous d’améliorer la situation.
+La formation
+En formant régulièrement les manageurs à nos pratiques (savoir donner un feedback, résoudre un conflit, pratiquer l’écoute active), nous formons autant de nouveaux formateurs, aptes à animer les formations de leurs tous jeunes pairs.
+
+#### La FAQ
+
+C'est tout bête une FAQ, mais ça permet de garder une trace des décisions prises, des process. Vous en avez une ?
 
 ## Conclusion
 
