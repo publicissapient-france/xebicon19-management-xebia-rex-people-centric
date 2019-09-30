@@ -98,23 +98,121 @@ La structure du management doit se réinventer, sans cesse, à chaque pallier. P
 
 Alors ce "boss", ce manageur dans notre cas, il doit faire quoi exactement pour retenir ses collaborateurs ?
 
+
 ## Partie 3 : QUOI
 
-### Les moyens
-- une communauté
-- une formation
-- un accompagnement
-
-### La responsabilisation à l'extrême
-
-### Le Point Feedback
+Alors concrètement, que fait-on ? 
 
 ### La culture du feedback
 
+### Les moyens
+- une communauté
+- une formation initiale
+- une formation continue
+- un accompagnement
+- des canaux de communication
+- de la documentation
+
+### Le Point Feedback
+
+Le Point Feedback est un outil, c'est une rencontre, régulière entre un manageur et un managé. Ce moment il est important, pour porter de l'attention, pour donner et obtenir un regard sur son activité, de façon bidirectionnelle.
+Le format classique consiste à aborder le déroulement de la mission du Xebian, les activités hors mission, appelées contributions, telles que la rédaction d'articles pour le Blog, la préparation de slots XKE ou de slots pour la Xebicon. Il est aussi le moment propice pour dire. Donner des félicitations, des encouragements mais aussi pour recadrer, conseiller, ou tout simplement écouter activement.
+Ces points feedbacks nous les souhaitons régulier, espacés de 6 semaines. Dans un cadre formel ou informel. Formel, c'est à dire dans un bureau, au calme, pour préserver l'intimité, informel comme au restaurant, le temps d'un déjeuner, c'est bruyant, mais une rencontre régulière est importante pour créer un lien fort de proximité.
+
+Pour varier le format, nous avons créé au fil des ans différentes variantes, comme le Perfect Match par exemple. Nous allons dérouler devant  cet outil dont nous sommes très fiers. Il s'agit de faire noter le Xebian plusieurs critères. 
+
 ### Le Perfect Match
 
-### La communauté de manageur
+Benjamin : le manageur
+Julien : le managé
 
+Exemple de dialogue
+
+BLA - "Bonjour Julien"
+JSM - "Bonjour Benjamin"
+
+BLA - "Je te propose de faire le Perfect Match, comme d'habitude, tu notes de 1 à 5 les critères, 1 étant négatif/inquiétant, 5 était l'idéal, une situation qui te convient. 3 c'est moyen/neutre."
+
+#### DDD
+BLA - "Tu as démarré ta mission il y a presque 7 mois"
+
+
+#### TDT
+Message à faire passer : Prendre soin de ses managés c'est aussi s'intéresser au nombre d'heure passés dans les transports
+
+BLA - "Comment tu évalues ton temps de transport ?"
+
+JSM - "Je dirai 4/5, je mets 55mn de chez moi, quand on habite en banlieue parisienne c'est difficile de faire beaucoup moins, mais je suis assis dans le RER donc ça va"
+
+BLA - pas de réponse, rien de spécial à dire je pense
+
+#### HSK
+HSK => Faire Grandir techniquement
+
+BLA - "Au niveau des Hard Skills ?"
+
+JSM - "Ca va, mais maintenant que la stack technique est en place je n'apprends plus forcément, je dirai 3"
+
+BLA - @blacroix tu me réponds quoi ?
+
+#### SSK
+SSK => Faire Grandir non-techniquement
+
+BLA - "Par rapport aux Soft Skills ?"
+
+JSM - "Je ne sais pas trop comment mettre ça en pratique"
+
+BLA - "Ta dernière formation portait sur la présentation orale"
+
+JSM - "Oui mais je ne fais pas de présentation, je ne vois pas comment travailler ça"
+
+BLA - "J'imagine que tu fais des Daily Standup, tu peux mettre en pratique ce que tu as vu en formation par exemple. Préparer ton discours, savoir quel message tu veux faire passer, balayer les gens du regard, travailler ta posture, ta voix, ton intonnation."
+
+JSM - "Oui tu as raison, je n'y avais pas pensé. Du coup, je mets 3 sur 5, et la prochaine fois j'espère que je mettrai 4 ou 5 si je sens que j'ai pu progresser là dessus."
+
+#### IPC
+IPC => Il sait pourquoi il travaille chez le client
+
+BLA : "Ok, IPC, ton intérêt pour le Client ou le sujet de ta mission"
+
+JSM : "5, sans hésitation, c'est un domaine fonctionnel qui me plait vraiment, je sais que c'est rare de trouver une correspondance, mais là le sujet me plait personnellement et en plus on m'a bien expliqué à quoi servait l'appli, on est en contact avec les utilisateurs, c'est top."
+
+#### LAX
+LAX => Il sait avec qui il travaille et crée des liens avec autrui, pas seulement sur sa mission
+
+BLA : "Tu es arrivé il y a 7 mois, comment tu évalues la qualité du lien avec les Xebians"
+
+JSM : "Je suis le seul Xebian dans ma mission, mais comme on se voit au XKE chaque mois et que les Xebians sont très actif sur Slack, ça va, je mets 4."
+
+#### ASX
+ASX => Il sait pourquoi il travaille chez Xebia
+
+BLA : "Est-ce la stratégie de Xebia te semble claire ?"
+
+JSM : "Oui assez, déjà parce que quand j'ai une question tu sais y répondre, je reçois régulièrement des mails des Technical Officers de Xebia alors je sais sur quoi on travaille technologiquement et il y a le Marketing qui nous parle des événements qu'on organise comme la Xebicon de novembre. Disons que je mets 4 !"
+
+### Récapitulatif
+
+| Critère | Note |
+|---------|------|
+|DDD      |7 mois|
+|TDT      |4     |
+|HSK      |3     |
+|SSK      |3     |
+|IPC      |5     |
+|LAX      |4     |
+|ASX      |4     |
+
+#### Explication
+
+Vous venez d'assister à un exemple de Perfect Match, chaque cas est différent. Au delà de la notation, qui pourrait se faire via un formulaire en ligne, ce qui nous importe c'est que ça ouvre la discussion sur des sujets qui n'auraient pas forcément été abordés autrement. Se demander si on progresse, si on aime sa mission, si on se sent bien dans sa propre entreprise, pouvoir en parler naturellement est le vrai gros plus du Perfect Match à titre individuel.
+
+#### Synthèse
+
+Mais nous nous servons du Perfect Match également comme une synthèse générale, en faisant la moyenne de toutes les notes, critère par critère, mission par mission. Et tout ça, à chaque trimestre. Nous pouvons ainsi sentir le poul de la société, apporter des améliorations et savoir comment les Xebians se sentent.  Pour obtenir cela, les manageurs reportent les notes et les commentaires dans un grand tableau.
+
+### La communauté de manageur
+### La responsabilisation à l'extrême
 ### La Manager Academy
 
 ## Conclusion
