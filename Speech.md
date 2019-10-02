@@ -153,7 +153,12 @@ BLA - "Au niveau des Hard Skills ?"
 
 JSM - "Ca va, mais maintenant que la stack technique est en place je n'apprends plus forcément, je dirai 3"
 
-BLA - @blacroix tu me réponds quoi ?
+BLA - 
+
+1. L'avenir sur la mission ? (va répondre, que des pages à dérouler)
+2. OK, tu t'ennuies ? (oui, non, je ne suis pas sur)
+3. Utiliser tes connaissances et les partager ? (oui, mais non, nouveau challenge technique)
+4. Connais-tu les projets internes ? Conf Companion (mobile) ; Skills (web) ; XQRCode (React Native) ; XDD (Xebian as a service) -> OK, why not, on en parle après.
 
 #### SSK
 SSK => Faire Grandir non-techniquement
@@ -182,7 +187,7 @@ LAX => Il sait avec qui il travaille et crée des liens avec autrui, pas seuleme
 
 BLA : "Tu es arrivé il y a 7 mois, comment tu évalues la qualité du lien avec les Xebians"
 
-JSM : "Je suis le seul Xebian dans ma mission, mais comme on se voit au XKE chaque mois et que les Xebians sont très actif sur Slack, ça va, je mets 4."
+JSM : "Je suis le seul Xebian dans ma mission, mais comme on se voit au XKE chaque mois et que les Xebians sont très actif sur Slack, ça va, je mets 4. Aussi, on se voit régulièrement et tu me communiques des informations, c'est cool."
 
 #### ASX
 ASX => Il sait pourquoi il travaille chez Xebia
