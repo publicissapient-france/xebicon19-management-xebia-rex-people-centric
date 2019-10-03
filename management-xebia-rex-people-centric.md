@@ -53,6 +53,8 @@ Développeur fullstack
 
 ## Les besoins
 
+
+
 - être connu et reconnu : J'existe
 - être écouté : Mes problèmes
 - connaitre le sens de son action : Je sais pourquoi je me lève le matin
