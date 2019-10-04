@@ -41,70 +41,56 @@ Développeur fullstack
 
 # Plan
 
-- Le Management, un sujet à part entière
-- Les moments clés chez Xebia
-- Nos outils
+- Grandir
+- Consolider
+- Innover
 
 ---
 
-# Le Management, un sujet à part entière
+# Grandir
 
---- 
+---
 
-## Les besoins
+## Les gens au centre
 
+---
 
+### Les besoins	
 
 - être connu et reconnu : J'existe
 - être écouté : Mes problèmes
 - connaitre le sens de son action : Je sais pourquoi je me lève le matin
 
---- 
+---
 
-## Comment nous avons choisi, chez Xebia, de bouleverser notre façon de faire à plusieurs moments clés de notre existence
+## Le rôle du manageur
 
 ---
 
-# Les moments clés chez Xebia
+### Le contexte
 
 ---
-
-## Au tout début
 
 Toute entreprise a un système de management, qu'elle soit petite, avec quelques employés ou un gros groupe de plusieurs dizaines de milliers de collaborateurs. L'histoire que nous allons vous rencontrer c'est celle de Xebia, une entreprise de quelques dizaines de collaborateurs, plutôt jeune, une trentaine d'années pour la plupart. Ces collaborateurs travaillent chez des clients, sur des projets informatiques, dans Paris ou sa proche banlieue. Autant vous dire que pour créer un sentiment d'appartenance il faut se lever tôt. Mais au départ, quand on est peu, c'est facile, on connait tout le monde, on crée des liens facilement et puis, il n'y a en général qu'un seul chef, c'est d'ailleurs sans doute lui qui nous a recruté.
 Il semble alors assez facile d'exister au sein de l'entreprise, nous sommes, individuellement vu et reconnu, on nous accorde du temps, on nous donne des conseils.
 
 ---
 
-## Historique rapide
+### L'Unique
+
+- Problème : Tout se passe bien jusqu'au moment où l'entreprise grandit et que le manageur historique, celui qui s'occupait de tous ne peut plus assurer un suivi de qualité. Il est alors temps de déléguer.
 
 ---
 
-### Epoque I - 2004
+### Pas de cadre
 
-Problème : Tout se passe bien jusqu'au moment où l'entreprise grandit et que le manageur historique, celui qui s'occupait de tous ne peut plus assurer un suivi de qualité. Il est alors temps de déléguer.
-
----
-
-### Epoque II - pré-2011
-
-La première réponse de Xebia a été de nommer des manageurs, mais pas n'importe lesquels. Les manageurs chez Xebia sont des consultants avec une **rôle** de Manageur, c'est-à-dire que leur métier est avant d'être consultant, d'être par exemple Développeur sur le projet d'un de nos clients et qu'il a **en plus** une responsabilité d'encadrement de collaborateurs qui, je le rappelle, ne sont pas forcément à ses côtés.
+- Nommer des manageurs
+- 12 collaborateurs
+- "managez avec vos trippes"
 
 ---
 
-La deuxième chose, c'est que ces manageurs auront la responsable d'au maximum 12 collaborateurs, 12 consultants, répartis aux 4 coins de Paris.
-
----
-
-Le dernier point, est un conseil, "managez avec vos trippes". Je crois que c'est à peu près la seule formation que nos nouveaux manageurs auront reçu. Allez, sautez dans le grand bain et nagez.
-
----
-
-A votre avis, que s'est-il passé ?
-
----
-
-Problème :
+#### Problème
 
 - pas de formation
 - pas de méthode
@@ -115,11 +101,9 @@ Problème :
 
 ---
 
-### Epoque III - mi-2015
+### Scaling
 
 En 2015, nous choisissons de professionnaliser notre management, nous faisons appel au cabinet Madinier pour avoir un avis extérieur, des conseils et surtout, une formation au management, c'est-à-dire aux outils qui nous permettront d'être de bons manageurs.
-
----
 
 Ce qui est mis en place :
 
@@ -129,7 +113,7 @@ Ce qui est mis en place :
 
 ---
 
-Problème : 
+#### Problème
 
 - Nomination de nouveaux manageurs impliquent la création de Manageurs de Manageurs
 - Problèmes lors des réévaluations de salaires
@@ -137,7 +121,7 @@ Problème :
 
 ---
 
-### Epoque IV - 2018
+### L'Unique
 
 Ce qui est mis en place :
 
@@ -154,18 +138,23 @@ Avantages :
 
 ---
 
-Problème qu'on voit venir ... :
-- Ca ne scale pas, retour à l'époque I :'-(
-
----
-
 La structure du management doit se réinventer, sans cesse, à chaque pallier. Pour nous, c'est principalement le nombre de consultants qui rejoignent nos rangs qui nous poussent à nous remettre en question. Mais c'est aussi les raisons des départs, qui sont souvent difficiles à identifier. Ne dit-on pas qu'on quitte une entreprise avant tout à cause de son manageur plutôt qu'à cause du salaire ?
 
 `According to many sources, a bad boss is also the number one reason why employees quit their job. Here's how to get along with your boss.` [source](https://www.thebalancecareers.com/top-reasons-why-employees-quit-their-job-1918985) : 
 
-Alors ce "boss", ce manageur dans notre cas, il doit faire quoi exactement pour retenir ses collaborateurs ?
+Alors ce "boss", ce manageur dans notre cas, il doit faire quoi exactement pour retenir ses collaborateurs ?	
 
 ---
+
+# Consolider
+
+---
+
+## Créer une communauté
+
+---
+
+## Former la communauté 	
 
 # Les outils que nous avons appliqués, façonnés et enseignés au cours de ces dernières années, nous vous les donnons
 
@@ -178,7 +167,7 @@ Alors concrètement, que fait-on ?
 ---
 
 ## Les moyens
-
+	
 - une communauté
 - une formation initiale
 - une formation continue
